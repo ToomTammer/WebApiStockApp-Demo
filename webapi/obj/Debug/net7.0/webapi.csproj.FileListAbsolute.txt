@@ -1,0 +1,212 @@
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\appsettings.Development.json
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\appsettings.json
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\webapi.exe
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\webapi.deps.json
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\webapi.runtimeconfig.json
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\webapi.dll
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\webapi.pdb
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.csproj.AssemblyReference.cache
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.AssemblyInfoInputs.cache
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.AssemblyInfo.cs
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.csproj.CoreCompileInputs.cache
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.webapi.props
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapi.props
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets.pack.json
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets.build.json
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\staticwebassets.development.json
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\scopedcss\bundle\webapi.styles.css
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.csproj.CopyComplete
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.dll
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\refint\webapi.dll
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.pdb
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
+d:\Portfolio\Web\web API\webapi\obj\Debug\net7.0\ref\webapi.dll
+D:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Portfolio\Web\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\appsettings.json
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\webapi.exe
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\webapi.deps.json
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\webapi.runtimeconfig.json
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\webapi.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\webapi.pdb
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.csproj.AssemblyReference.cache
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.AssemblyInfoInputs.cache
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.AssemblyInfo.cs
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.csproj.CoreCompileInputs.cache
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.webapi.props
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapi.props
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\scopedcss\bundle\webapi.styles.css
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.csproj.CopyComplete
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.dll
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\refint\webapi.dll
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.pdb
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
+D:\Portfolio\Dev\web API\webapi\obj\Debug\net7.0\ref\webapi.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Azure.Core.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Humanizer.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Portfolio\Dev\web API\webapi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\appsettings.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\webapi.exe
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\webapi.deps.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\webapi.runtimeconfig.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\webapi.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\webapi.pdb
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Azure.Core.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Humanizer.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.csproj.AssemblyReference.cache
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.AssemblyInfoInputs.cache
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.AssemblyInfo.cs
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.csproj.CoreCompileInputs.cache
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.webapi.props
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapi.props
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\scopedcss\bundle\webapi.styles.css
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.csproj.Up2Date
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\refint\webapi.dll
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.pdb
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
+D:\Portfolio\Dev\WebApiStockApp\webapi\obj\Debug\net7.0\ref\webapi.dll

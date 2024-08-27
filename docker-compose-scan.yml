@@ -1,0 +1,22 @@
+version: '3.7'
+
+services:
+  sonarqube:
+    container_name: sonar-scanner-container
+    image: sonarsource/sonar-scanner-cli:latest
+    platform: "linux/amd64"
+    environment:
+      - SONAR_HOST_URL=http://localhost:9000
+      - SONAR_SCANNER_OPTS=-Dsonar.projectKey=test-webbapi
+      - SONAR_LOGIN=sqp_1183b5f2dfd7dd1fe2260c7309c4528e9b5b4674
+    volumes:
+      - .:/usr/src  # Absolute path inside the container
+    working_dir: /usr/src
+    command: sonar-scanner
+    networks:
+      - sonarqube-network
+      
+
+networks:
+  sonarqube-network:
+    external: true

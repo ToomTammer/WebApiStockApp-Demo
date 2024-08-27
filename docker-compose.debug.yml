@@ -1,0 +1,39 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+version: '3.8'
+
+services:
+  webapi:
+    image: webapi
+    build:
+      context: .
+      dockerfile: webapi/Dockerfile
+      # dockerfile: docker.io/library/webapi:1.0
+      args:
+        - configuration=Debug
+    ports:
+      - 8000:8000
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - ~/.vsdbg:/remote_debugger:rw
+    depends_on:
+      - docker-demo-sqlserver  
+      
+  docker-demo-sqlserver:
+    container_name: docker-demo-sqlserver-container
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      MSSQL_SA_PASSWORD: "YourStrong!Passw0rd"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+  
+volumes:
+  sqlserver_data:
+
+networks:
+  sonarqube-network:
+    external: true
