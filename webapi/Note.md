@@ -13,18 +13,23 @@ dotnet new webapi -o api
 
 ## 2 ORM, Entity Framwork
 ``bash
-Microsoft.EntityFramworkCore.SqlServer
+Microsoft.EntityFrameworkCore.SqlServer
 ``bash
-Microsoft.EntityFramworkCore.Tools
+Microsoft.EntityFrameworkCore.Tools
 ``bash
-Microsoft.EntityFramworkCore.Design
+Microsoft.EntityFrameworkCore.Design
 
 ## 3 Create ApplicationDBContext.cs
 For help for query data at DB
 
-## 4 Migration D
+## 4 Migration DBB
 ``bash
-donet ef migrations add int
+dotnet ef migrations add init
 ``bash
-donet ef database update
+dotnet ef database update
+
+## 5 Identity
+Microsoft.Extensions.Identity.Core
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.AspNetCore.Authentication.JwtBearer
 
