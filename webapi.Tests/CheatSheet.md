@@ -7,7 +7,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Used to define a test method that does not take any parameters.
 - **Usage**: Apply this attribute to methods that should be executed as tests.
 - **Example**:
-  ```yaml
+  ```csharp
   public class MathTests
   {
       [Fact]
@@ -25,7 +25,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Usage**:  Apply this attribute to methods that need to run with multiple sets of input data.
 - **Data Source Attributes**:  Use alongside [InlineData], [MemberData], or [ClassData] to provide the input data.
 - **Example**:
-```yaml
+```csharp
     public class MathTests
     {
         [Theory]
@@ -43,7 +43,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**:  Provides inline data for parameterized tests defined with [Theory].
 - **Usage**:  Specify multiple sets of parameters directly within the attribute.
 - **Example**:
-```yaml
+```csharp
     public class MathTests
     {
         [Theory]
@@ -61,7 +61,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Provides data for parameterized tests from a property or method.
 - **Usage**:  Define a property or method that returns IEnumerable<object[]> or IEnumerable<object>, and reference it in [Theory].
 - **Example**:
-```yaml
+```csharp
     public class MathTests
     {
         public static IEnumerable<object[]> TestData =>
@@ -85,7 +85,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Provides data from a class that implements IEnumerable<object[]>.
 - **Usage**:  Define a class that implements IEnumerable<object[]> to supply data to [Theory].
 - **Example**:
-```yaml
+```csharp
     public class MathTestData : IEnumerable<object[]>
     {
         public IEnumerator<object[]> GetEnumerator()
@@ -113,7 +113,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Tags tests with key-value pairs for categorization.
 - **Usage**: Apply to methods to assign tags that can be used for grouping and filtering tests.
 - **Example**:
-```yaml
+```csharp
         public class MathTests
         {
             [Fact]
@@ -130,7 +130,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Groups tests that share a common setup or context.
 - **Usage**: Define a collection and use it to manage shared context for tests.
 - **Example**:
-```yaml
+```csharp
     [CollectionDefinition("Database Collection")]
     public class DatabaseCollection : ICollectionFixture<DatabaseFixture>
     {
@@ -153,7 +153,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Provides shared setup and cleanup for tests within a class.
 - **Usage**: Implement IClassFixture<T> in the test class to use shared context or setup.
 - **Example**:
-```yaml
+```csharp
     public class DatabaseFixture
     {
         public DatabaseFixture()
@@ -177,7 +177,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Provides shared context across multiple test classes.
 - **Usage**: 'ICollectionFixture<T>' to share setup and cleanup across multiple test classes.
 - **Example**:
-```yaml
+```csharp
     public class DatabaseCollection : ICollectionFixture<DatabaseFixture>
     {
         // Collection definition
@@ -208,7 +208,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
 - **Purpose**: Skips a test method.
 - **Usage**: Use when you want to skip certain tests, usually with a reason provided.
 - **Example**:
-```yaml
+```csharp
     public class SkippedTests
     {
         [Fact(Skip = "Skipping this test due to a known issue.")]
@@ -219,7 +219,7 @@ xUnit provides several attributes to define and manage tests. Below is a detaile
     }
 ```
 
-```yaml
+```csharp
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
