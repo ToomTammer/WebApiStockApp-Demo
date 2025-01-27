@@ -3,38 +3,44 @@
 ## 1. Set Up Your ASP.NET Core Web API Project
 1. Open a terminal in VSCode.
 2. Create a new Web API project:
-   ```bash
+   ```yaml
    dotnet new webapi -n webapi
    cd webapi
+   ```
 
 ## 2. Add xUnit Testing Project
 1. Navigate to the root of your solution
-    ```bash
+    ```yaml
     cd ..
+    ```
 2. Create a new xUnit test project
-     ```bash
+     ```yaml
     dotnet new xunit -n webapi.Tests
     cd webapi.Tests
+    ```
 3. Add the test project to the solution
-    ```bash
+     ```yaml
     dotnet sln add webapi.Tests/webapi.Tests.csproj
     or add this in test project
     <ItemGroup>
     <ProjectReference Include="..\webapi\webapi.csproj" />
     </ItemGroup>
+    ```
 ## 3. Add Reference to ASP.NET Core Project
 1. Add a reference to the ASP.NET Core project
-    ```bash
+    ```yaml
     dotnet add webapi.Tests.csproj reference ../webapi/webapi.csproj
+    ```
 ## 4. Install xUnit and Testing Packages
 1. Install xUnit and other necessary packages
-    ```bash
+    ```yaml
     dotnet add webapi.Tests package xunit
     dotnet add webapi.Tests package xunit.runner.visualstudio
     dotnet add webapi.Tests package Moq
+    ```
 ## 5. Write Your First Test
 1. Create a test class, e.g., 'WeatherForecastControllerTests.cs'
-
+```yaml
 using System.Net.Http;
 using System.Threading.Tasks;
 using Xunit;
@@ -59,13 +65,16 @@ namespace webapi.Tests
         }
     }
 }
-
+```
 ## 6. Run Your Tests
-    ``bash
+    ```yaml
     dotnet test
+    ```
 
 ## 7. Debug Tests in VSCode
 1. Create or modify '.vscode/launch.json'
+
+```yaml
 {
     "version": "0.2.0",
     "configurations": [
@@ -81,4 +90,5 @@ namespace webapi.Tests
         }
     ]
 }
+```
 
